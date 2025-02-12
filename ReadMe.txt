@@ -1,5 +1,5 @@
-Introduction
-Functionality of this program  leverages the Tesseract OCR library to analyze images. The program performs text extraction, visual element segmentation. 
+
+#Functionality of this program  leverages the Tesseract OCR library to analyze images. The program performs text extraction, visual element segmentation. 
 I also tried to implement a webpage to take image input but that didn’t work well. Still I included the templates, implementation details and other files.
 
 
